@@ -1,3 +1,4 @@
 # capstone_project_MLEN
-Capstone Project for the Machine Learning Engineer Nanodegree Program <br>
-DengAI: Predicting Disease Spread
+### Capstone Project for the Machine Learning Engineer Nanodegree Program <br>
+### Predicting Dengue Disease Spread <br>
+In 2019 I had the chance of visiting an astonishing country, Sri Lanka. During our stay there, although we were already aware of it and had taken the necessary precautions, we had a few conversations with local people about the phenomenon of Dengue and the risk that one can run every day by being bitten by a particular species of mosquitoes, _Aedes_ mosquitos, that carry this disease. From there my curiosity about this phenomenon grew and I began to wonder if it was possible in some way to use statistical and / or machine learning techniques to analyze and predict it. This project of mine, therefore, is based on a competition held by the site DrivenData.org, called **_"DengAI: Predicting Disease Spread"_** (https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/), which focuses on finding a way of predicting the next dengue fever local epidemic in San Juan, Puerto Rico and Iquitos, Peru.
